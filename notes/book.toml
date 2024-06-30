@@ -1,0 +1,10 @@
+[book]
+authors = ["ruitianzhong"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Notes on Deep Learning for Computer Vision"
+
+[output.html]
+git-repository-url = "https://github.com/ruitianzhong/cs231n"
+mathjax-support = true
